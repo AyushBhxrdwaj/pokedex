@@ -28,8 +28,8 @@ const App = () => {
   
   return (
     <div>
-      <Nav/>
-      <Cards/>
+      <Nav/>  
+      {}
     </div>
   )
 }
