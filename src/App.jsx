@@ -51,7 +51,7 @@ const App = () => {
     <div>
       <Nav/>  
       <div className='flex items-center justify-center p-3 m-2'>
-        <input className='text-center font-bold rounded-md' type="text" placeholder='Search' onChange={pokesearch} value={search} />
+        <input className='text-center font-bold rounded-md outline-none placeholder:text-black' type="text"  placeholder='Search' onChange={pokesearch} value={search} />
       </div>
 
       <div className="flex flex-wrap gap-6 justify-center p-6">
