@@ -3,7 +3,7 @@ import Nav from './components/Nav'
 import Cards from './components/Cards'
 const App = () => {
   const [pokename, setpokename] = useState([])
-  const req = 'https://pokeapi.co/api/v2/pokemon?limit=1000&offset=0'
+  const req = 'https://pokeapi.co/api/v2/pokemon?limit=100&offset=0'
   const [search, setsearch] = useState("")
   const [original, setoriginal] = useState([])
 
