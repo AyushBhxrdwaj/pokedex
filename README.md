@@ -78,10 +78,6 @@ This app is deployed using [Cloudflare Pages](https://pages.cloudflare.com/) and
 
 Contributions are welcome! If you have any suggestions or find bugs, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Feel free to explore the app and let me know your thoughts! 😊
