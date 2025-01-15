@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pokedex-app.git
+   git clone https://github.com/AyushBhxrdwaj/pokedex-app.git
    cd pokedex-app
    ```
 
